@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.on_user{
+  border:solid 1px gray;
+  margin-bottom: 10px;
+  list-style-type: none;
+  box-shadow: 5px 5px 10px gray;
+}
